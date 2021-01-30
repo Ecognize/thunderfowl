@@ -1,0 +1,9 @@
+[submodule "openv2g"]
+	path = openv2g
+	url = https://github.com/Ecognize/openv2g.git
+[submodule "lwip"]
+	path = lwip
+	url = https://git.savannah.nongnu.org/git/lwip.git
+[submodule "wolfssl"]
+	path = wolfssl
+	url = https://github.com/wolfSSL/wolfssl.git
